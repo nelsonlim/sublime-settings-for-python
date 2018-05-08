@@ -1,0 +1,33 @@
+{
+    // Enable auto complete to be triggered automatically when typing.
+    "auto_complete": false,
+
+    "font_size": 9,
+
+    // List any packages to ignore here. When removing entries from this list,
+    // a restart may be required if the package contains plugins.
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    
+    "sublimelinter": false,
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+
+    // The theme controls the look of Sublime Text's UI (buttons, tabs, scroll bars, etc)
+    "theme": "Boxy Monokai.sublime-theme",
+
+    // Sets the colors used within the text area
+    "color_scheme": "Packages/User/Boxy Monokai (Flake8Lint).tmTheme",
+    
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+    
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": true
+}
